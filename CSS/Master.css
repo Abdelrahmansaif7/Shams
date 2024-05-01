@@ -1,0 +1,19 @@
+p {
+    color: black;
+    font-style: italic;
+    font-size: 125%;
+    background-color: whitesmoke;
+}
+
+h1 {
+    font-style: italic;
+    font-size: 300%;
+}
+
+
+
+body {
+
+    background-image: url(WhatsApp\ Image\ 2024-05-01\ at\ 2.32.06\ PM.jpeg);
+    background-size: contain;
+}
